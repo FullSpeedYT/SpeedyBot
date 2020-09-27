@@ -194,7 +194,7 @@ async def user_info(ctx, user: discord.Member):
             permissoes += 'mover membros\n'
             moderador = True
         if perm.manage_nicknames:
-            permissoes += 'gerenciar apilidos\n'
+            permissoes += 'gerenciar apelidos\n'
             moderador = True
         if perm.manage_roles:
             permissoes += 'gerenciar cargos\n'
