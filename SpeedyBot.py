@@ -385,4 +385,4 @@ async def bot(ctx, *, msg):
 
 
 
-client.run('NzU5Mzg5NTkwMzc2Mjg0MTkx.X28yqw.4yyUhT0UmuR_XMJzJPdsZGeMnK4')
+client.run('Put Your token here')
